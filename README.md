@@ -24,4 +24,4 @@ Executed environments require the following primary libraries:
 
 ## Citation
 If you utilise this code or methodology in your own research, please cite the repository as follows:
-> Barranco Aragón, D. J. (2026). *Automated Classification of Intermittent Pulsars Utilising Convolutional Neural Networks* [Source code]. GitHub. https://github.com/[YourUsername]/[YourRepoName]
+> Barranco Aragón, D. J. (2026). *Automated Classification of Intermittent Pulsars Utilising Convolutional Neural Networks*. GitHub. https://github.com/DanielBarranco-Phy/automated-_classification_of_intermittent_pulsars_utilising_convolutional_neural_networks
