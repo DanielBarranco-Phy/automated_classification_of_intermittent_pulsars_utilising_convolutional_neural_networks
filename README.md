@@ -1,0 +1,2 @@
+# automated-_classification_of_intermittent_pulsars_utilising_convolutional_neural_networks
+This repository contains the complete, executable codebase for my BSc dissertation. The project addresses the classification bottleneck associated with intermittent pulsars in radio astronomy. Traditional amplitude-based matched filters frequently fail when processing faint, highly variable sources heavily distorted by interstellar scintillation.
