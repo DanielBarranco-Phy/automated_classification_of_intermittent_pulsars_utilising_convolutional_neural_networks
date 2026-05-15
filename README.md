@@ -16,7 +16,7 @@ To resolve this, the codebase implements a supervised deep learning pipeline. It
 
 ## Core Dependencies
 Executed environments require the following primary libraries:
-* `Python 3.x`
+* `Python 3.9.6`
 * `TensorFlow / Keras`
 * `SciPy` (for Fourier-based resampling)
 * `NumPy` & `Pandas`
